@@ -1,0 +1,22 @@
+Link de acceso al proyecto:
+https://8584-191-126-39-165.ngrok-free.app/sistema_control_recursos
+
+Acceso como Administrador
+RUT: 13174445-5
+Clave: 123456
+
+ Acceso como Usuario Asignado
+RUT: 22689725-9
+Clave: 1234
+
+Acceso a la Base de Datos del Sistema (phpMyAdmin):
+https://8584-191-126-39-165.ngrok-free.app/phpmyadmin
+
+Usuario: root
+Contraseña: dejar en blanco
+
+Base de datos utilizada: sistema_control
+Nota importante:
+Este acceso es temporal y privado, y lo estoy compartiendo exclusivamente con ustedes como parte de mi evaluación de proyecto de título.
+El sistema está alojado en un servidor local y expuesto de forma segura mediante Ngrok.
+Una vez finalizada la evaluación, desactivaré este acceso por motivos de seguridad.
