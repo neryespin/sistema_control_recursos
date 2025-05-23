@@ -1,5 +1,5 @@
 Link de acceso al proyecto:
-https://8584-191-126-39-165.ngrok-free.app/sistema_control_recursos
+https://f72f-191-125-31-222.ngrok-free.app/sistema_control_recursos
 
 Acceso como Administrador
 RUT: 13174445-5
